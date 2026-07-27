@@ -2,7 +2,7 @@
 /*
 Plugin Name: Cachebuster
 Description: Append a file's modification time to its URL and prevent stale caches.
-Version: 1.8
+Version: 1.9
 Author: Albert Peschar
 Author URI: https://kiboit.com
 License: GPLv2 or later
